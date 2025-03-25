@@ -12,6 +12,46 @@
 
 ## External Call Safety
 
+A study showed external calls and oracle manipulation are the 2 most common attacks.
+
+Consider this when doing external calls in your contracts:
+
+- Reentrancy
+- DoS
+- Return values
+- Gas
+
+### Reentrancy
+
+- Use CEI
+- Apply `nonReentrant`
+- `nonReentrant` can fail in multiple contract systems.
+- If we are talking about 2 contracts in 2 separated systems, 'read-only reentrancy' is still a possibility.
+
+### DoS Attacks
+
+Didn't understand this part:
+https://youtu.be/DRZogmD647U?t=4108
+
+### Return values
+
+- Check for all possible values
+- Check for unexpected bytes
+
+### Gas
+
+If you don't trust the contract you're calling, don't forward all the gas
+
+### Documentation
+
+Example of a very good README:
+
+https://github.com/Blueberryfi/blueberry-core
+
+## Complete Reentrancy Guide
+
+https://youtu.be/DRZogmD647U?t=5785
+
 ## Links
 
 - [Youtube Part 1](https://youtu.be/DRZogmD647U)
