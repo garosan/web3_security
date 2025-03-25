@@ -50,7 +50,14 @@ https://github.com/Blueberryfi/blueberry-core
 
 ## Complete Reentrancy Guide
 
-https://youtu.be/DRZogmD647U?t=5785
+We will cover 4 types of reentrancy:
+
+1. Classic reentrancy
+2. Cross-function reentrancy
+3. Cross-contract reentrancy
+4. Read-only reentrancy
+
+https://youtu.be/DRZogmD647U?t=6711
 
 ## Links
 
