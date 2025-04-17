@@ -75,3 +75,5 @@ Patrick left Chainlink around jan 2023.
 **How to do a code review for a web3 codebase before a security audit?**
 
 **I don't love gated knowledge**
+
+Andy: You don't need to be an expert, but your content can help people that are 1 or 2 steps behind you.
