@@ -15,7 +15,7 @@ He also mentions he probably got lucky that the codebase was very junior and ful
 
 Don't start by reading the highs and mediums in the reports bcs you're gonna feel overwhelmed.
 
-### About being smart with your time
+## About being smart with your time
 
 https://youtu.be/KONVlS7azMQ?t=911
 
@@ -40,12 +40,21 @@ Spearbit pays really well, pays like 20k for lead researchers.
 
 A regular SR (not junior not lead) gets paid like 12k/week during audits.
 
-### How beginners should approach code4rena
+## How beginners should approach code4rena
 
 When Pashov and Andy Li started they would get hundreds of dollars for lows, thousands of dlls for mediums, now these are all very well known and they pay cents.
 
 "You have to pay the price for being late to the party."
 
-### An algo for success
+## An algo for success
 
 Read the latest reports in Code4rena, copy from them, make your report look damn good!
+
+## Balance between work and study
+
+Every day is different. Most days he puts in 8/10hrs, and try to balance research and auditing.
+
+If you don't practice what you're studying you'll just forget it.
+
+Me quedé aquí
+https://youtu.be/KONVlS7azMQ?t=5087

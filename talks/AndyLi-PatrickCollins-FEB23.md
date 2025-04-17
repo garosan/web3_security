@@ -1,4 +1,4 @@
-## @PatrickAlphaC Web3 Education, Auditing and Advice for New Engineers in Web3
+# @PatrickAlphaC Web3 Education, Auditing and Advice for New Engineers in Web3
 
 - [Video Link](https://www.youtube.com/watch?v=9bu9pJICxiw)
 - Date published: Feb 1, 2023
@@ -63,7 +63,7 @@ Andy says you can jump straight into auditing by:
 - Doing some CTF challenges
 - Really really learning DeFi protocol inner workings front to back
 
-### Patrick's auditing process
+## Patrick's auditing process
 
 - Understand from a high level what the protocol's supposed to do
 - Go through the functions and understand them high level
