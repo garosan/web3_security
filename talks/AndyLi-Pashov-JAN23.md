@@ -58,3 +58,13 @@ If you don't practice what you're studying you'll just forget it.
 
 Me quedé aquí
 https://youtu.be/KONVlS7azMQ?t=5087
+
+## Immunefi vs solo audits
+
+Immunefi is really difficult bcs normally repos there have been vastly audited, so you're investing a lot of time trying to find really deep technical vulnerabilities with no guarantee, whilst for a solo audit normally the clients haven't gone through any process so there's a lot of low hanging fruit and value that you can bring to them for a pre-agreed price.
+
+https://www.secureum.xyz/
+
+More advanced:
+
+https://electisec.tech/
